@@ -75,7 +75,20 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Customer Call Centre Dashboard](screenshots/dashboard-overview.png)
+### Representative R01
+![Representative R01 Dashboard](dashboard-r01.png)
+
+### Representative R02
+![Representative R02 Dashboard](dashboard-r02.png)
+
+### Representative R03
+![Representative R03 Dashboard](dashboard-r03.png)
+
+### Representative R04
+![Representative R04 Dashboard](dashboard-r04.png)
+
+### Representative R05
+![Representative R05 Dashboard](dashboard-r05.png)
 
 ## Key Insights
 
